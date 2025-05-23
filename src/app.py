@@ -76,7 +76,7 @@ class UIComponents:
     def render_question_info(quiz_manager: QuizManager) -> None:
         current_question = quiz_manager.get_current_question()
         st.subheader(f"Question {quiz_manager.current_index + 1} of {len(quiz_manager.filtered_questions)}")
-        st.write(f"**Section:** {current_question.section} | **Category:** {current_question.category}")
+        st.write(f"**Section:** :violet-badge[{current_question.section}] | **Category:** :green-badge[{current_question.category}]")
 
     @staticmethod
     def render_question(question: Question) -> None:
