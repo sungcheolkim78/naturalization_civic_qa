@@ -81,6 +81,8 @@ encouraged to respond to the civics questions using the answers provided below.
 		 ▪ six (6)
 20.		 Who is one of your state's U.S. Senators now?*
 		 ▪  Answers will vary. [District of Columbia residents and residents of U.S. territories should answer that D.C.
+		 - Cory Booker (Democratic Party)
+		 - Andy Kim (Democratic Party)
 (or the territory where the applicant lives) has no U.S. Senators.]
 21.		 The House of Representatives has how many voting members?
 		 ▪ four hundred thirty-five (435)
@@ -90,6 +92,10 @@ encouraged to respond to the civics questions using the answers provided below.
 		 ▪  Answers will vary. [Residents of territories with nonvoting Delegates or Resident Commissioners may
 provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has
 no (voting) Representatives in Congress.]
+		 - Josh Gottheimer (Democratic Party) 
+		 - Mikie Sherrill (Democratic Party)
+		 - Chris Smith (Republican Party)
+		 - Jeff Van Drew (Republican Party)
 24.		 Who does a U.S. Senator represent?
 		 ▪ all people of the state
 25.		 Why do some states have more Representatives than other states?
@@ -102,8 +108,10 @@ no (voting) Representatives in Congress.]
 		 ▪ November
 28.		 What is the name of the President of the United States now?*
 		 ▪ Visit uscis.gov/citizenship/testupdates for the name of the President of the United States.
+		 - Donald Trump
 29.		 What is the name of the Vice President of the United States now?
 		 ▪ Visit uscis.gov/citizenship/testupdates for the name of the Vice President of the United States.
+		 - James David Vance
 30.		 If the President can no longer serve, who becomes President?
 		 ▪ the Vice President
 31.		 If both the President and the Vice President can no longer serve, who becomes President?
@@ -158,15 +166,19 @@ government?
 		 ▪ approve zoning and land use
 43.		 Who is the Governor of your state now?
 		 ▪  Answers will vary. [District of Columbia residents should answer that D.C. does not have a Governor.]
+		 - Phil Murphy (Democratic Party)
 44.		 What is the capital of your state?*
 		 ▪  Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a
+		 - Trenton
 capital. Residents of U.S. territories should name the capital of the territory.]
 45.		 What are the two major political parties in the United States?*
 		 ▪ Democratic and Republican
 46.		 What is the political party of the President now?
 		 ▪ Visit uscis.gov/citizenship/testupdates for the political party of the President.
+		 - Republican Party
 47.		 What is the name of the Speaker of the House of Representatives now?
 		 ▪ Visit uscis.gov/citizenship/testupdates for the name of the Speaker of the House of Representatives.
+		 - Mike Johnson
 
 ### C: Rights and Responsibilities
 
